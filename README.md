@@ -10,6 +10,8 @@ GitHub一周热点汇总，每周分享热门项目，B站、YouTube发布视频
 
 
 ### 往期内容
+- 第108期：[Claude Code的终极优化方案](_weekly/108.md)  | [在线阅读](https://itcoffee66.github.io/githubweekly/108.html)
+- 第107期：[被OpenAI收购的AI安全工具](_weekly/107.md)  | [在线阅读](https://itcoffee66.github.io/githubweekly/107.html)
 - 第106期：[阿里的openclaw替代](_weekly/106.md)  | [在线阅读](https://itcoffee66.github.io/githubweekly/106.html)
 - 第105期：[Rust 版openclaw](_weekly/105.md)  | [在线阅读](https://itcoffee66.github.io/githubweekly/105.html)
 - 第104期：[智谱GLM-5发布，打响春节AI大战模型第一枪](_weekly/104.md)  | [在线阅读](https://itcoffee66.github.io/githubweekly/104.html)
